@@ -50,9 +50,10 @@ p{
   font-size: 1em;
 }
 #headshot{
+  padding: 15% 1% 0 1%;
 }
 #projects{
-  background: #ffffff;
+  background: peachpuff;
 }
 #intro{
   background: #ffffff;
