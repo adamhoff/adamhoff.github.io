@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+}
+.container > div {
+  flex: 0 0 48%;
+  height: 100vh;
+  text-align: center;
+}
+section {
+  flex: 0 0 60%;
+  display: flex;
+  flex-wrap: wrap;
+}
+section > .item {
+  flex: 0 0 60%;
+  text-align: center;
+}
+.item {
+  height: 31.333vh;
+  width: 30vw;
+  background-color: #ccc;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
